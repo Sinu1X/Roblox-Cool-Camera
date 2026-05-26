@@ -8,3 +8,5 @@ And secondly you will need to create a new ScreenGui in StarterGui folder. Name 
 Then you need to create an ImageLabel in this ScreenGui, insert any rbxassetid in Image property of ImageLabel.
 
 Thats all! Thanks for using.
+
+Ah, also there's recoil system for my game. You can delete this part if you want. (47-86 lines)
